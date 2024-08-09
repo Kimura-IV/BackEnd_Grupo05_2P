@@ -3,8 +3,8 @@
 # ❱ Integrantes:
 
 ```
-1) Dennys Marlon Tierra Alvarado
-2) Moises Ismael Salazar Tinoco
+1) Moises Ismael Salazar Tinoco
+2) Dennys Marlon Tierra Alvarado
 3) Mauro Palacios
 4) Emely Lindao
 ```
