@@ -1,6 +1,7 @@
-# Proyecto de DAWA Segundo parcial:
+# Proyecto de DAWA Segundo Parcial:
 
-- Integrantes:
+# ❱ Integrantes:
+
 1) Dennys Marlon Tierra Alvarado
 2) Moises Ismael Salazar Tinoco
 3) 
