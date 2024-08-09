@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Proyectogrupo9.DTO/1.0.0": {
+        "runtime": {
+          "Proyectogrupo9.DTO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Proyectogrupo9.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

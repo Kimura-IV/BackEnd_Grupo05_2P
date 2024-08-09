@@ -1,0 +1,45 @@
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Proyectogrupo9.DAL\bin\Debug\net7.0\Proyectogrupo9.DAL.deps.json
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Proyectogrupo9.DAL\bin\Debug\net7.0\Proyectogrupo9.DAL.dll
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Proyectogrupo9.DAL\bin\Debug\net7.0\Proyectogrupo9.DAL.pdb
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Proyectogrupo9.DAL\obj\Debug\net7.0\Proyectogrupo9.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Proyectogrupo9.DAL\obj\Debug\net7.0\Proyectogrupo9.DAL.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Proyectogrupo9.DAL\obj\Debug\net7.0\Proyectogrupo9.DAL.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Proyectogrupo9.DAL\obj\Debug\net7.0\Proyectogrupo9.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Proyectogrupo9.DAL\obj\Debug\net7.0\Proyectogrupo9.DAL.dll
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Proyectogrupo9.DAL\obj\Debug\net7.0\refint\Proyectogrupo9.DAL.dll
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Proyectogrupo9.DAL\obj\Debug\net7.0\Proyectogrupo9.DAL.pdb
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Proyectogrupo9.DAL\obj\Debug\net7.0\ref\Proyectogrupo9.DAL.dll
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Proyectogrupo9.DAL\bin\Debug\net7.0\Proyectogrupo9.Model.dll
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Proyectogrupo9.DAL\bin\Debug\net7.0\Proyectogrupo9.Model.pdb
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Proyectogrupo9.DAL\obj\Debug\net7.0\Proyectogrupo9.DAL.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Proyectogrupo9.DAL\obj\Debug\net7.0\Proyectogrupo9.DAL.csproj.CopyComplete
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Proyectogrupo9.DAL\bin\Debug\net7.0\Proyectogrupo9.DAL.deps.json
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Proyectogrupo9.DAL\bin\Debug\net7.0\Proyectogrupo9.DAL.dll
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Proyectogrupo9.DAL\bin\Debug\net7.0\Proyectogrupo9.DAL.pdb
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Proyectogrupo9.DAL\bin\Debug\net7.0\Proyectogrupo9.Model.dll
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Proyectogrupo9.DAL\bin\Debug\net7.0\Proyectogrupo9.Model.pdb
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Proyectogrupo9.DAL\obj\Debug\net7.0\Proyectogrupo9.DAL.csproj.AssemblyReference.cache
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Proyectogrupo9.DAL\obj\Debug\net7.0\Proyectogrupo9.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Proyectogrupo9.DAL\obj\Debug\net7.0\Proyectogrupo9.DAL.AssemblyInfoInputs.cache
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Proyectogrupo9.DAL\obj\Debug\net7.0\Proyectogrupo9.DAL.AssemblyInfo.cs
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Proyectogrupo9.DAL\obj\Debug\net7.0\Proyectogrupo9.DAL.csproj.CoreCompileInputs.cache
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Proyectogrupo9.DAL\obj\Debug\net7.0\Proyectogrupo9.DAL.csproj.CopyComplete
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Proyectogrupo9.DAL\obj\Debug\net7.0\Proyectogrupo9.DAL.dll
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Proyectogrupo9.DAL\obj\Debug\net7.0\refint\Proyectogrupo9.DAL.dll
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Proyectogrupo9.DAL\obj\Debug\net7.0\Proyectogrupo9.DAL.pdb
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Proyectogrupo9.DAL\obj\Debug\net7.0\ref\Proyectogrupo9.DAL.dll
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Proyectogrupo9.DAL\bin\Debug\net7.0\Proyectogrupo9.DAL.deps.json
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Proyectogrupo9.DAL\bin\Debug\net7.0\Proyectogrupo9.DAL.dll
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Proyectogrupo9.DAL\bin\Debug\net7.0\Proyectogrupo9.DAL.pdb
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Proyectogrupo9.DAL\bin\Debug\net7.0\Proyectogrupo9.Model.dll
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Proyectogrupo9.DAL\bin\Debug\net7.0\Proyectogrupo9.Model.pdb
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Proyectogrupo9.DAL\obj\Debug\net7.0\Proyectogrupo9.DAL.csproj.AssemblyReference.cache
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Proyectogrupo9.DAL\obj\Debug\net7.0\Proyectogrupo9.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Proyectogrupo9.DAL\obj\Debug\net7.0\Proyectogrupo9.DAL.AssemblyInfoInputs.cache
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Proyectogrupo9.DAL\obj\Debug\net7.0\Proyectogrupo9.DAL.AssemblyInfo.cs
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Proyectogrupo9.DAL\obj\Debug\net7.0\Proyectogrupo9.DAL.csproj.CoreCompileInputs.cache
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Proyectogrupo9.DAL\obj\Debug\net7.0\Proyecto.0F860483.Up2Date
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Proyectogrupo9.DAL\obj\Debug\net7.0\Proyectogrupo9.DAL.dll
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Proyectogrupo9.DAL\obj\Debug\net7.0\refint\Proyectogrupo9.DAL.dll
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Proyectogrupo9.DAL\obj\Debug\net7.0\Proyectogrupo9.DAL.pdb
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Proyectogrupo9.DAL\obj\Debug\net7.0\ref\Proyectogrupo9.DAL.dll

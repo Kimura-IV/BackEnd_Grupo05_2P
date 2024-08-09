@@ -1,0 +1,255 @@
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\obj\Debug\net7.0\Pgrupo9.API.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\obj\Debug\net7.0\Pgrupo9.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\obj\Debug\net7.0\Pgrupo9.API.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\obj\Debug\net7.0\Pgrupo9.API.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\obj\Debug\net7.0\Pgrupo9.API.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\obj\Debug\net7.0\Pgrupo9.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\obj\Debug\net7.0\Pgrupo9.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\appsettings.json
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Pgrupo9.API.exe
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Pgrupo9.API.deps.json
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Pgrupo9.API.runtimeconfig.json
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Pgrupo9.API.dll
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Pgrupo9.API.pdb
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Proyectogrupo9.BLL.dll
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Proyectogrupo9.DAL.dll
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Proyectogrupo9.DTO.dll
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Proyectogrupo9.IOC.dll
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Proyectogrupo9.Model.dll
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Proyectogrupo9.Utility.dll
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Proyectogrupo9.BLL.pdb
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Proyectogrupo9.DTO.pdb
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Proyectogrupo9.IOC.pdb
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Proyectogrupo9.DAL.pdb
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Proyectogrupo9.Model.pdb
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Proyectogrupo9.Utility.pdb
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\obj\Debug\net7.0\staticwebassets\msbuild.Pgrupo9.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\obj\Debug\net7.0\staticwebassets\msbuild.build.Pgrupo9.API.props
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Pgrupo9.API.props
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Pgrupo9.API.props
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\obj\Debug\net7.0\scopedcss\bundle\Pgrupo9.API.styles.css
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\obj\Debug\net7.0\Pgrupo9.API.csproj.CopyComplete
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\obj\Debug\net7.0\Pgrupo9.API.dll
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\obj\Debug\net7.0\refint\Pgrupo9.API.dll
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\obj\Debug\net7.0\Pgrupo9.API.pdb
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\obj\Debug\net7.0\Pgrupo9.API.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Doc Bryan\SEMESTRE CL2 - 2023-2024\DESARROLLO DE APLICACIONES WEB AVANZADO\TAREAS Y TALLERES\Proyecto\Proyectog9\Pgrupo9\obj\Debug\net7.0\ref\Pgrupo9.API.dll
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\appsettings.json
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Pgrupo9.API.exe
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Pgrupo9.API.deps.json
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Pgrupo9.API.runtimeconfig.json
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Pgrupo9.API.dll
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Pgrupo9.API.pdb
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Proyectogrupo9.BLL.dll
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Proyectogrupo9.DAL.dll
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Proyectogrupo9.DTO.dll
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Proyectogrupo9.IOC.dll
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Proyectogrupo9.Model.dll
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Proyectogrupo9.Utility.dll
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Proyectogrupo9.BLL.pdb
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Proyectogrupo9.DTO.pdb
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Proyectogrupo9.IOC.pdb
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Proyectogrupo9.DAL.pdb
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Proyectogrupo9.Model.pdb
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Proyectogrupo9.Utility.pdb
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\obj\Debug\net7.0\Pgrupo9.API.csproj.AssemblyReference.cache
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\obj\Debug\net7.0\Pgrupo9.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\obj\Debug\net7.0\Pgrupo9.API.AssemblyInfoInputs.cache
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\obj\Debug\net7.0\Pgrupo9.API.AssemblyInfo.cs
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\obj\Debug\net7.0\Pgrupo9.API.csproj.CoreCompileInputs.cache
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\obj\Debug\net7.0\Pgrupo9.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\obj\Debug\net7.0\Pgrupo9.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\obj\Debug\net7.0\staticwebassets\msbuild.Pgrupo9.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\obj\Debug\net7.0\staticwebassets\msbuild.build.Pgrupo9.API.props
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Pgrupo9.API.props
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Pgrupo9.API.props
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\obj\Debug\net7.0\scopedcss\bundle\Pgrupo9.API.styles.css
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\obj\Debug\net7.0\Pgrupo9.API.csproj.CopyComplete
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\obj\Debug\net7.0\Pgrupo9.API.dll
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\obj\Debug\net7.0\refint\Pgrupo9.API.dll
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\obj\Debug\net7.0\Pgrupo9.API.pdb
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\obj\Debug\net7.0\Pgrupo9.API.genruntimeconfig.cache
+C:\Users\denni\3D Objects\Proyecto\Proyectog9\Pgrupo9\obj\Debug\net7.0\ref\Pgrupo9.API.dll
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\appsettings.json
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Pgrupo9.API.exe
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Pgrupo9.API.deps.json
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Pgrupo9.API.runtimeconfig.json
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Pgrupo9.API.dll
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Pgrupo9.API.pdb
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Proyectogrupo9.BLL.dll
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Proyectogrupo9.DAL.dll
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Proyectogrupo9.DTO.dll
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Proyectogrupo9.IOC.dll
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Proyectogrupo9.Model.dll
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Proyectogrupo9.Utility.dll
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Proyectogrupo9.BLL.pdb
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Proyectogrupo9.DTO.pdb
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Proyectogrupo9.IOC.pdb
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Proyectogrupo9.DAL.pdb
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Proyectogrupo9.Model.pdb
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\bin\Debug\net7.0\Proyectogrupo9.Utility.pdb
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\obj\Debug\net7.0\Pgrupo9.API.csproj.AssemblyReference.cache
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\obj\Debug\net7.0\Pgrupo9.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\obj\Debug\net7.0\Pgrupo9.API.AssemblyInfoInputs.cache
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\obj\Debug\net7.0\Pgrupo9.API.AssemblyInfo.cs
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\obj\Debug\net7.0\Pgrupo9.API.csproj.CoreCompileInputs.cache
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\obj\Debug\net7.0\Pgrupo9.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\obj\Debug\net7.0\Pgrupo9.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\obj\Debug\net7.0\staticwebassets\msbuild.Pgrupo9.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\obj\Debug\net7.0\staticwebassets\msbuild.build.Pgrupo9.API.props
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Pgrupo9.API.props
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Pgrupo9.API.props
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\obj\Debug\net7.0\scopedcss\bundle\Pgrupo9.API.styles.css
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\obj\Debug\net7.0\Pgrupo9..966D1CB0.Up2Date
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\obj\Debug\net7.0\Pgrupo9.API.dll
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\obj\Debug\net7.0\refint\Pgrupo9.API.dll
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\obj\Debug\net7.0\Pgrupo9.API.pdb
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\obj\Debug\net7.0\Pgrupo9.API.genruntimeconfig.cache
+C:\Users\denni\OneDrive\Documentos\DWA\Nueva carpeta\Proyecto\Proyectog9\Pgrupo9\obj\Debug\net7.0\ref\Pgrupo9.API.dll
