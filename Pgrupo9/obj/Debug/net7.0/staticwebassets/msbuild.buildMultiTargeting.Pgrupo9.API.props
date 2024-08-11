@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\Pgrupo9.API.props" />
-</Project>
